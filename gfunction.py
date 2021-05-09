@@ -9,7 +9,8 @@ def readStudentNames():
     file.close()
     return studentScores
     
-
+#This function calculate the grades for all students
+#Its takes dict of student name and scores
 def calculateGrades(studentDict):
     studentGrades = dict()
     for name,values in studentDict.items():
