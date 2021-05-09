@@ -18,7 +18,7 @@ def calculateGrades(studentDict):
         studentGrades[name] = grade
     return studentGrades
 
-
+# This method writes all student grdes into a text file
 def writeGrades(studentGrades):
     file = open("student.txt","w")
     for stname,stgrade in studentGrades.items():
