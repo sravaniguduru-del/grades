@@ -1,0 +1,8 @@
+Deepa,85.5
+Prasanna,86.875
+Rani,77.625
+Latha,74.5
+Lakshmi,76.375
+priya,69.375
+srilatha,71.25
+manasa,77.25
